@@ -77,7 +77,7 @@
         android:backgroundTint="@color/teal_700"
         android:text="@string/next"
        android:layout_marginHorizontal="10dp"
-        android:layout_marginTop="220dp"
+        android:layout_marginTop="225dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/button_click"
         android:layout_width="match_parent"
